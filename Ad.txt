@@ -1,5 +1,4 @@
-这是一个测试
-m.dm530p.cc
+@@||dm530p.cc
 edddh.me##UL.slider-extra.clearfix
 edddh.me##div.container:nth-child(2) > div.row > center:nth-child(2)
 agefans.net##button#btncomment
