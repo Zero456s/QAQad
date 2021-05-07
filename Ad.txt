@@ -1,7 +1,7 @@
 ! Title: QAQad 😭😭😭
 ! Homepage:chrome<中国版>=Adguard+Via+
 ! by: Zeros
-! Last Modified: 2021年04月30日 12:20
+! Last Modified: 2021年05月7日 12:20
 edddh.me##UL.slider-extra.clearfix
 edddh.me##div.container:nth-child(2) > div.row > center:nth-child(2)
 agefans.net##button#btncomment
