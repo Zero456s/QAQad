@@ -1,4 +1,75 @@
-# QAQad!
-! fgjj@nn.cm
-! sigh
-!xcvbnm@qp.cn
+edddh.me##UL.slider-extra.clearfix
+edddh.me##div.container:nth-child(2) > div.row > center:nth-child(2)
+agefans.net##button#btncomment
+agefans.net##DIV.loginout
+agefans.net##DIV#new_tip1
+agefans.net##DIV.app-dl-m
+@@||members.hanime.tv^
+||dnet.mb.qq.com^$app=com.tencent.xriver
+||159.75.195.115:1883^$app=com.tencent.xriver
+||data.bilibili.com^$app=tv.danmaku.bili
+||dataflow.biliapi.com^$app=tv.danmaku.bili
+||data.bilibili.com^$app=tv.danmaku.bili
+edddh.me##DIV.bshare-cuatom
+www.edddh.me##SPAN.BSHARE_COUNT.bshare-share-count
+!edddh.me##DIV.
+edddh.me##DIV.innerdiv
+edddh.me##div.container:nth-child(2) > div.row:first-child > h3:nth-child(6) > a
+edddh.me##div.container:nth-child(2) > div.row:first-child > div.player_title:nth-child(2)
+edddh.me##div.container:nth-child(2) > div.row:first-child > div.bshare-custom:nth-child(5) > span.BSHARE_COUNT.bshare-share-count:last-child
+||m.weibo.cn/status/baiduad$domain=m.weibo.cn
+m.weibo.cn##DIV.wrap
+18comic.org###wrapper > div.ph-bottom.switch-group.visible-xs.visible-sm:first-child > ul > li.ph-active:nth-child(4)
+18comic.org###wrapper > div.ph-bottom.switch-group.visible-xs.visible-sm:first-child > ul > li.ph-active:nth-child(3)
+18comic.org###sns
+18comic.org##DIV.bot-per-back
+18comic.org##DIV.bot-per-times
+@@||cdn.jsdelivr.net/gh/pltfans^$domain=m.dm530p.cc
+@@xmfans.me
+m.milimili.tv##.leo-mod leo-left leo-col-12
+||dldir1.qq.com/weixin/checkresupdate^$app=com.tencent.mm,important
+||mmbiz.qpic.cn/mmbiz_jpg^$app=com.tencent.mm
+baike.baidu.com##DIV#AdAhuBe3
+bimibimi.cc##div.leo-container:nth-child(4) > nav.leo-foot-wrap.leo-bg-a.leo-po-fi:last-child > a.leo-foot-a.leo-txt-c.leo-pt-10:nth-child(2)
+bimibimi.cc##div.leo-container:nth-child(4) > div.leo-go-top.leo-txt-c.leo-lh-m.leo-po-fi.leo-radius-m.leo-bg-b.leo-show:nth-child(26) > span.iconfont.icon-more.leo-fs-icon-s.leo-color-a
+bimibimi.cc##div.leo-container:nth-child(4) > div.leo-gonggao-body.leo-bg-a:nth-child(7)
+bimibimi.cc##div.leo-container:nth-child(4) > div:nth-child(4)
+bimibimi.cc##div.leo-container:nth-child(4) > section:nth-child(6)
+tieba.baidu.com##DIV.tb-mt--12.tb-line-button
+https://downapp.baidu.com/baidutieba/AndroidPhone
+||wx3.sinaimg.cn^$app=com.coolapk.market
+||wx3.sinaimg.cn^$app=com.coolapk.market
+||static.coolapk.com^$app=com.coolapk.market
+||account.coolapk.com^$app=com.coolapk.market
+||wx1.sinaimg.cn^$app=com.coolapk.market
+||upos-sz-mirrorcos.bilivideo.com^$app=tv.danmaku.bili
+||passport.bigfun.cn^$app=tv.danmaku.bili
+||passport.biligame.com^$app=tv.danmaku.bili
+||dnet.mb.qq.com^$app=tv.danmaku.bili
+||lbs.map.qq.com^$app=tv.danmaku.bili
+||203.107.1.34^$app=tv.danmaku.bili
+!爱弹幕
+idanmu.im##DIV.entry-share
+idanmu.im##.¨¶icÕ
+idanmu.im##.÷t0Ør
+idanmu.im##.þÇàÕË
+idanmu.im##.ú®¯jé
+idanmu.im##DIV.fake-respond,DIV.widget-medal-container
+!5dmtv
+||5dm.app###video-toolbar > div.container > div.video-toolbar-inner:first-child > div.video-toolbar-item.like-dislike.pull-right:first-child
+||5dm.app###comments
+||5dm.app###animate
+||5dm.app###helloddd
+!爱恋动漫bt
+m.kisssub.org##DIV.announcement
+||kisssub.org##DIV.announcement
+!假琉璃
+llss.at###branding > a:nth-child(2) > img
+llss.at##DIV#metaslider-id-3217,DIV#metaslider-id-3222
+llss.at##ASIDE#metaslider_widget-8,ASIDE#metaslider_widget-7,ASIDE#metaslider_widget-2,ASIDE#metaslider_widget-5,ASIDE#metaslider_widget-6,ASIDE#metaslider_widget-4,ASIDE#metaslider_widget-3,ASIDE#metaslider_widg
+llss.at##ARTICLE#post-2958
+!风车动漫
+@@||sf1-ttcdn-tos.pstatp.com/obj^$important
+m.dm530p.cc##DIV.swipe
+!  ID 类 域名+##div#***
+!  class类 域名+##div.***
