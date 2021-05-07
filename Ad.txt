@@ -14,15 +14,8 @@ agefans.net##DIV.app-dl-m
 ||dataflow.biliapi.com^$app=tv.danmaku.bili
 ||data.bilibili.com^$app=tv.danmaku.bili
 edddh.me##DIV.bshare-cuatom
-www.edddh.me##SPAN.BSHARE_COUNT.bshare-share-count
-!edddh.me##DIV.
+edddh.me##SPAN.BSHARE_COUNT.bshare-share-count
 edddh.me##DIV.innerdiv
-edddh.me##UL.slider-extra.clearfix
-edddh.me##div.container:nth-child(2) > div.row > center:nth-child(2)
-edddh.me##ul.slider-extra.clearfix:nth-child(7)
-edddh.me##div.container:nth-child(2) > div.row > div.layout-box.clearfix.p-0.m-0:first-child > div.mobile_player_left > div.player_title:first-child
-edddh.me###switch
-agefans.net##button#btncomment
 edddh.me##div.container:nth-child(2) > div.row:first-child > h3:nth-child(6) > a
 edddh.me##div.container:nth-child(2) > div.row:first-child > div.player_title:nth-child(2)
 edddh.me##div.container:nth-child(2) > div.row:first-child > div.bshare-custom:nth-child(5) > span.BSHARE_COUNT.bshare-share-count:last-child
