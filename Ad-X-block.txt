@@ -15,10 +15,12 @@ tieba.baidu.com##.ertiao-wrap
 imgsrc.baidu.com^$domain=tieba.baidu.com
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.fengchao-banner
+
 !禁止网页写入剪切板
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
 #%#navigator.clipboard.write = {}
+
 ||update.fooview.com$app=com.fooview.android.fooview
 ||172.217.160.68^$app=com.fooview.android.fooview
 ||pp.myapp.com/ma_icon$app=com.coolapk.market
