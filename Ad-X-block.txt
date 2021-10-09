@@ -24,6 +24,9 @@
 ||music.163.com/api/clientlog^$app=com.netease.cloudmusic
 ||nstool.netease.com^$app=com.netease.cloudmusic,important
 ||203.107.1.*$app=tv.danmaku.bili,important
+120.92.143.119
+119.29.29.29
+120.92.139.58
 
 ! 巴哈姆特论坛
 m.gamer.com.tw##div.wrapper:nth-of-type(7)
