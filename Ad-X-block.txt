@@ -4,6 +4,8 @@
 ! Expires: 1 days
 ! Version: 2021/10/09 18:49
 
+! 手机应用专区
+
 ! 巴哈姆特论坛
 m.gamer.com.tw##div.wrapper:nth-of-type(7)
 ##.announcement
