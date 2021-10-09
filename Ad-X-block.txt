@@ -283,6 +283,7 @@ idanmu.im##.÷t0Ør
 idanmu.im##.þÇàÕË
 idanmu.im##.ú®¯jé
 idanmu.im##DIV.fake-respond,DIV.widget-medal-container
+
 !5dmtv
 ||5dm.app###video-toolbar > div.container > div.video-toolbar-inner:first-child > div.video-toolbar-item.like-dislike.pull-right:first-child
 ||5dm.app###comments
@@ -291,7 +292,9 @@ idanmu.im##DIV.fake-respond,DIV.widget-medal-container
 
 !爱恋动漫bt
 ||kisssub.org##DIV.announcement
+
 !假琉璃
+
 !风车动漫
 !  ID 类 域名+##div#***
 !  class类 域名+##div.***
