@@ -402,6 +402,6 @@ llss.*##ARTICLE#post-2958
 
 !风车动漫
 dm530p.*###slider,div [class="logo fl"]
-
+!
 !  ID 类 域名+##div#***
 !  class类 域名+##div.***
