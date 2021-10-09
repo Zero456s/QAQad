@@ -3,8 +3,10 @@
 ! by zero
 ! Expires: 1 days
 ! Version: 2021/10/09 18:49
+! 巴哈姆特论坛
 m.gamer.com.tw##div.wrapper:nth-of-type(7)
 ##.announcement
+
 tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > nav:first-child
 ||tieba.baidu.com##.fixed-nav-bar-defensive > .nav-bar.w-row-justify-between.w-row-align-center.w-row
 dm530p.*###slider,div [class="logo fl"]
