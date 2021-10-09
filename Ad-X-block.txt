@@ -12,10 +12,18 @@
 ||image.coolapk.com/image/*-uid-*@*.gif$app=com.coolapk.market,important
 ||bj.bcebos.com^
 ||short.weixin.qq.com/mmnetcheck$app=com.tencent.mm,important
+||*.jpush.cn^
+||hdslb.com^$app=com.coolapk.market,important
+||image.coolapk.com/apk_logo/*-uid-*.gif$important
+||image.coolapk.com/image/*-uid-*.jpg$important
+||image.coolapk.com/image/*-uid-*.jpeg$important
+||suggestion.baidu.com^$important
+
 
 ! 巴哈姆特论坛
 m.gamer.com.tw##div.wrapper:nth-of-type(7)
 ##.announcement
+
 ! 百度贴吧
 tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > nav:first-child
 ||tieba.baidu.com##.fixed-nav-bar-defensive > .nav-bar.w-row-justify-between.w-row-align-center.w-row
@@ -24,21 +32,6 @@ tieba.baidu.com##.ertiao-wrap
 imgsrc.baidu.com^$domain=tieba.baidu.com
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.fengchao-banner
-
-!禁止网页写入剪切板
-#%#document.execCommand = {}
-#%#navigator.clipboard.writeText = {}
-#%#navigator.clipboard.write = {}
-
-
-
-||www.cocomanga.com/counting$domain=cocomanga.com,important
-||*.jpush.cn^
-||hdslb.com^$app=com.coolapk.market,important
-||image.coolapk.com/apk_logo/*-uid-*.gif$important
-||image.coolapk.com/image/*-uid-*.jpg$important
-||image.coolapk.com/image/*-uid-*.jpeg$important
-||suggestion.baidu.com^$important
 tieba.baidu.com##div.tb-threadlist__item.tb-banner.tb-banner-wrapper > .tb-mt--8
 ||m.baidu.com/baidu.php?ur=*$domain=m.baidu.com,important
 byokpg.smartapps.cn##.ad-expose
@@ -47,6 +40,19 @@ byokpg.smartapps.cn##.sw-21__ad-expose
 tieba.baidu.com##nav.nav-bar-wrapper
 baidu.com##.listbox
 baidu.com##div.lg-inner > .lg-wrapper > .lg-inner > .c-img-rect._3HW7Y
+
+
+!禁止网页写入剪切板
+#%#document.execCommand = {}
+#%#navigator.clipboard.writeText = {}
+#%#navigator.clipboard.write = {}
+
+
+
+!cocomanga漫画
+||www.cocomanga.com/counting$domain=cocomanga.com,important
+
+
 ||lh.lctcw.top^
 ||jk.lipeijun.top^
 llss.*##.yarpp-related
