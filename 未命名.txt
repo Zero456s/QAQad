@@ -1,5 +1,0 @@
-! Title: Ad-X-block
-! Homepage: none
-! by zero
-! Expires: 1 days
-! Version: 2021/10/09 18:49
