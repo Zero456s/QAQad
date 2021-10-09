@@ -3,7 +3,7 @@
 ! Description:
 ! by zero
 ! Version: 自用版
-! Expires: 1 days
+! Expires: 1 s
 ! TimeUpdated: 2021/10/09 20:04
 
 
