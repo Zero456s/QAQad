@@ -1,4 +1,4 @@
-! Homepage:
+! Homepage:自用和辅助不足之处
 ! Title: Ad-X-DNS
 ! Expires: 1 days
 ! Version:
