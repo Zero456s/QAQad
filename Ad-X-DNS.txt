@@ -18,9 +18,7 @@
 downpack.baidu.com
 @@||m.to8to.com^
 @@||sf1-ttcdn-tos.pstatp.com^
-120.92.143.119:6537
-119.29.29.29
-120.92.139.58:6537
+
 ||cache.amap.com^
 ||downapp.baidu.com^
 ||ali-stats.jpush.cn^
