@@ -18,7 +18,10 @@
 ||image.coolapk.com/image/*-uid-*.jpg$important
 ||image.coolapk.com/image/*-uid-*.jpeg$important
 ||suggestion.baidu.com^$important
-
+||14.22.9.133^$app=tv.danmaku.bili,important
+||music.163.com/api/clientlog^$app=com.netease.cloudmusic
+||nstool.netease.com^$app=com.netease.cloudmusic,important
+||203.107.1.*$app=tv.danmaku.bili,important
 
 ! 巴哈姆特论坛
 m.gamer.com.tw##div.wrapper:nth-of-type(7)
@@ -55,20 +58,12 @@ baidu.com##div.lg-inner > .lg-wrapper > .lg-inner > .c-img-rect._3HW7Y
 
 ||lh.lctcw.top^
 ||jk.lipeijun.top^
-llss.*##.yarpp-related
-llss.*###branding > a:nth-child(2) > img
-llss.*##DIV#metaslider-id-3217,DIV#metaslider-id-3222
-llss.*##ASIDE#metaslider_widget-8,ASIDE#metaslider_widget-7,ASIDE#metaslider_widget-2,ASIDE#metaslider_widget-5,ASIDE#metaslider_widget-6,ASIDE#metaslider_widget-4,ASIDE#metaslider_widget-3,ASIDE#metaslider_widg
-llss.*##ARTICLE#post-2958
-||14.22.9.133^$app=tv.danmaku.bili,important
-||music.163.com/api/clientlog^$app=com.netease.cloudmusic
-||nstool.netease.com^$app=com.netease.cloudmusic,important
-||203.107.1.*$app=tv.danmaku.bili,important
+
+!edddh动漫
 @@||m3u8.yyd.me^$domain=edddh.cc
 www.edddh.cc##DIV.swiper-container.box-slide.swiper-container-horizontal.swiper-container-android
 www.edddh.cc##SPAN.BSHARE_COUNT.bshare-share-count
 edddh.cc##div.container:nth-child(2) > div.row > center:nth-child(2)
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.tb-backflow:last-child
 edddh.cc##ul.slider-extra.clearfix:nth-child(7)
 edddh.cc##div.container:nth-child(2) > div.row > div.layout-box.clearfix.p-0.m-0:first-child > div.mobile_player_left > div.player_title:first-child
 edddh.cc###switch
@@ -309,6 +304,11 @@ idanmu.im##DIV.fake-respond,DIV.widget-medal-container
 ||kisssub.org##DIV.announcement
 
 !假琉璃
+llss.*##.yarpp-related
+llss.*###branding > a:nth-child(2) > img
+llss.*##DIV#metaslider-id-3217,DIV#metaslider-id-3222
+llss.*##ASIDE#metaslider_widget-8,ASIDE#metaslider_widget-7,ASIDE#metaslider_widget-2,ASIDE#metaslider_widget-5,ASIDE#metaslider_widget-6,ASIDE#metaslider_widget-4,ASIDE#metaslider_widget-3,ASIDE#metaslider_widg
+llss.*##ARTICLE#post-2958
 
 !风车动漫
 dm530p.*###slider,div [class="logo fl"]
