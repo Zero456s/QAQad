@@ -1,4 +1,4 @@
-! Title:Ad-X
-! Homepage:
+! Title:Ad-X-block
+! Homepage: none
 ! Expires:
 ! Version:
