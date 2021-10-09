@@ -10,7 +10,7 @@ m.gamer.com.tw##div.wrapper:nth-of-type(7)
 ! 百度贴吧
 tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > nav:first-child
 ||tieba.baidu.com##.fixed-nav-bar-defensive > .nav-bar.w-row-justify-between.w-row-align-center.w-row
-dm530p.*###slider,div [class="logo fl"]
+
 tieba.baidu.com##nav.nav-bar-wrapper
 tieba.baidu.com##.ertiao-wrap
 imgsrc.baidu.com^$domain=tieba.baidu.com
@@ -299,5 +299,7 @@ idanmu.im##DIV.fake-respond,DIV.widget-medal-container
 !假琉璃
 
 !风车动漫
+dm530p.*###slider,div [class="logo fl"]
+
 !  ID 类 域名+##div#***
 !  class类 域名+##div.***
