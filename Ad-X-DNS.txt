@@ -1,3 +1,9 @@
+! Homepage:
+! Title: Ad-X-DNS
+! Expires: 
+
+
+
 127.0.0.1 ||*.jpush.cn
 127.0.0.1 media.9game.cn
 127.0.0.1 api.maque.site
