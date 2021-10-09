@@ -15,7 +15,7 @@ tieba.baidu.com##.ertiao-wrap
 imgsrc.baidu.com^$domain=tieba.baidu.com
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.fengchao-banner
-!
+!禁止网页写入剪切板
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
 #%#navigator.clipboard.write = {}
