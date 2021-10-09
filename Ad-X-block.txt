@@ -43,7 +43,11 @@ byokpg.smartapps.cn##.sw-21__ad-expose
 tieba.baidu.com##nav.nav-bar-wrapper
 baidu.com##.listbox
 baidu.com##div.lg-inner > .lg-wrapper > .lg-inner > .c-img-rect._3HW7Y
-
+||tb3.bdstatic.com/radar-sdk/prod/js/1.0.0/es5/radar.min.js?t=*$domain=tieba.baidu.com
+||tieba.baidu.com/mo/q/recommendpb/recomSiteTids?thread_id=*&fr=wise$domain=tieba.baidu.com
+tb3.bdstatic.com/radar-sdk/prod/js/1.0.0/es5/radar.min.js?t=*$domain=tieba.baidu.com
+tieba.baidu.com/mo/q/recommendpb/recomSiteTids?thread_id=*&fr=wise$domain=tieba.baidu.com
+||tb2.bdstatic.com/tb/static-pb/widget/app_download/$domain=tb1.bdstatic.com
 
 !禁止网页写入剪切板
 #%#document.execCommand = {}
@@ -70,14 +74,15 @@ edddh.cc###switch
 edddh.cc##UL.slider-extra.clearfix
 edddh.cc##div.container:nth-child(2) > div.row > center:nth-child(2)
 edddh.cc##DIV.bshare-cuatom
-||tb2.bdstatic.com/tb/static-pb/widget/app_download/$domain=tb1.bdstatic.com
 edddh.cc##div.container:nth-child(2) > div.row:first-child > h3:nth-child(6) > a
 edddh.cc##div.container:nth-child(2) > div.row:first-child > div.player_title:nth-child(2)
 edddh.cc##div.container:nth-child(2) > div.row:first-child > div.bshare-custom:nth-child(5) > span.BSHARE_COUNT.bshare-share-count:last-child
-||tb3.bdstatic.com/radar-sdk/prod/js/1.0.0/es5/radar.min.js?t=*$domain=tieba.baidu.com
-||tieba.baidu.com/mo/q/recommendpb/recomSiteTids?thread_id=*&fr=wise$domain=tieba.baidu.com
+
+!其它网站
 @@||sf3-dycdn-tos.pstatp.com/obj/tos-cn-v-*/
 ||mp.weixin.qq.com##.rich_media_area_extra
+
+!mangabz漫画
 ||www.mangabz.com/wxh_asy.js?cid=$domain=mangabz.com
 edddh.cc##DIV.innerdiv
 bukaivip.com##div.container:nth-child(3) > div.row > div.stui-pannel.stui-pannel-bg.clearfix > div.stui-pannel-box.clearfix > div.stui-pannel_bd
