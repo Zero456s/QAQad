@@ -3,3 +3,293 @@
 ! by zero
 ! Expires: 1 days
 ! Version: 2021/10/09 18:49
+m.gamer.com.tw##div.wrapper:nth-of-type(7)
+##.announcement
+tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > nav:first-child
+||tieba.baidu.com##.fixed-nav-bar-defensive > .nav-bar.w-row-justify-between.w-row-align-center.w-row
+dm530p.*###slider,div [class="logo fl"]
+tieba.baidu.com##nav.nav-bar-wrapper
+tieba.baidu.com##.ertiao-wrap
+imgsrc.baidu.com^$domain=tieba.baidu.com
+tieba.baidu.com##.post-cut-guide
+tieba.baidu.com##.fengchao-banner
+#%#document.execCommand = {}
+#%#navigator.clipboard.writeText = {}
+#%#navigator.clipboard.write = {}
+||update.fooview.com$app=com.fooview.android.fooview
+||172.217.160.68^$app=com.fooview.android.fooview
+||pp.myapp.com/ma_icon$app=com.coolapk.market
+||203.107.1.65^$app=com.coolapk.market,important
+||image.coolapk.com/image/*-uid-*@*.gif$app=com.coolapk.market,important
+||bj.bcebos.com^
+||short.weixin.qq.com/mmnetcheck$app=com.tencent.mm,important
+||www.cocomanga.com/counting$domain=cocomanga.com,important
+||*.jpush.cn^
+||hdslb.com^$app=com.coolapk.market,important
+||image.coolapk.com/apk_logo/*-uid-*.gif$important
+||image.coolapk.com/image/*-uid-*.jpg$important
+||image.coolapk.com/image/*-uid-*.jpeg$important
+||suggestion.baidu.com^$important
+tieba.baidu.com##div.tb-threadlist__item.tb-banner.tb-banner-wrapper > .tb-mt--8
+||m.baidu.com/baidu.php?ur=*$domain=m.baidu.com,important
+byokpg.smartapps.cn##.ad-expose
+byokpg.smartapps.cn##.sw-21__bdad-wrap
+byokpg.smartapps.cn##.sw-21__ad-expose
+tieba.baidu.com##nav.nav-bar-wrapper
+baidu.com##.listbox
+baidu.com##div.lg-inner > .lg-wrapper > .lg-inner > .c-img-rect._3HW7Y
+||lh.lctcw.top^
+||jk.lipeijun.top^
+llss.*##.yarpp-related
+llss.*###branding > a:nth-child(2) > img
+llss.*##DIV#metaslider-id-3217,DIV#metaslider-id-3222
+llss.*##ASIDE#metaslider_widget-8,ASIDE#metaslider_widget-7,ASIDE#metaslider_widget-2,ASIDE#metaslider_widget-5,ASIDE#metaslider_widget-6,ASIDE#metaslider_widget-4,ASIDE#metaslider_widget-3,ASIDE#metaslider_widg
+llss.*##ARTICLE#post-2958
+||14.22.9.133^$app=tv.danmaku.bili,important
+||music.163.com/api/clientlog^$app=com.netease.cloudmusic
+||nstool.netease.com^$app=com.netease.cloudmusic,important
+||203.107.1.*$app=tv.danmaku.bili,important
+@@||m3u8.yyd.me^$domain=edddh.cc
+www.edddh.cc##DIV.swiper-container.box-slide.swiper-container-horizontal.swiper-container-android
+www.edddh.cc##SPAN.BSHARE_COUNT.bshare-share-count
+edddh.cc##div.container:nth-child(2) > div.row > center:nth-child(2)
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.tb-backflow:last-child
+edddh.cc##ul.slider-extra.clearfix:nth-child(7)
+edddh.cc##div.container:nth-child(2) > div.row > div.layout-box.clearfix.p-0.m-0:first-child > div.mobile_player_left > div.player_title:first-child
+edddh.cc###switch
+edddh.cc##UL.slider-extra.clearfix
+edddh.cc##div.container:nth-child(2) > div.row > center:nth-child(2)
+edddh.cc##DIV.bshare-cuatom
+||tb2.bdstatic.com/tb/static-pb/widget/app_download/$domain=tb1.bdstatic.com
+edddh.cc##div.container:nth-child(2) > div.row:first-child > h3:nth-child(6) > a
+edddh.cc##div.container:nth-child(2) > div.row:first-child > div.player_title:nth-child(2)
+edddh.cc##div.container:nth-child(2) > div.row:first-child > div.bshare-custom:nth-child(5) > span.BSHARE_COUNT.bshare-share-count:last-child
+||tb3.bdstatic.com/radar-sdk/prod/js/1.0.0/es5/radar.min.js?t=*$domain=tieba.baidu.com
+||tieba.baidu.com/mo/q/recommendpb/recomSiteTids?thread_id=*&fr=wise$domain=tieba.baidu.com
+@@||sf3-dycdn-tos.pstatp.com/obj/tos-cn-v-*/
+||mp.weixin.qq.com##.rich_media_area_extra
+||www.mangabz.com/wxh_asy.js?cid=$domain=mangabz.com
+edddh.cc##DIV.innerdiv
+bukaivip.com##div.container:nth-child(3) > div.row > div.stui-pannel.stui-pannel-bg.clearfix > div.stui-pannel-box.clearfix > div.stui-pannel_bd
+@@||[2403:71c0:8000:5ba7:5320:655f:59e8:91cc]:443^$app=com.huanchengfly.tieba.post
+124.202.138.29$network
+@@||www.dmd55.com/dmd8dz/?url=https://sf1-ttcdn-tos.pstatp.com/*?partNumber
+@@||sf3-ttcdn-tos.pstatp.com^
+||www.cocomanhua.com/js/ad_/$image
+||data.flurry.com^
+cocomanhua.com##.website-fix-ad-close-button
+||ifs.tanx.com^$app=com.taobao.taobao
+||static.zhihu.com/heifetz/main.signflow.*.js
+||static.zhihu.com/heifetz/column.signflow.*.js
+tieba.baidu.com##html > body > div.main-page-wrap > div.pb-page-wrapper.app-view.transition-fade > div.main-thread-content-margin.main-thread-content > div.media-content.media-content-margin > div.img-sudoku.main-img-sudoku > p.img-open-app
+www.mangabz.com##div#mb-cc3.clDiv
+||122.9.110.57:7004^$app=com.hichip.campro
+m.weibo.cn##.wrap
+www.cocomanhua.com##.clear.endtip2
+@@||sf1-ttcdn-tos.pstatp.com
+www.cocomanhua.com##span#qLZm2.xrnRk2
+||ja.ouxutong.com^$domain=cocomanhua.com,third-party
+||v1.cnzz.com/z_stat.php?id=$domain=cocomanhua.com,third-party
+||xg.you6ka.cn^$domain=cocomanhua.com,third-party
+www.cocomanhua.com##div#qLZm1.xrnRk1
+||zz.bdstatic.com^
+||a.exdynsrv.com^
+||www.cocomanhua.com/js/ad_/ad1.js
+www.cocomanhua.com##[href="http://download.aff91.com/chan-1384/aff-bxnpx"]
+tieba.baidu.com##span.tb-totop__span > svg.tb-totop__svg > use
+tieba.baidu.com##DIV.fixed-nav-bar.nav-bar-wrapper
+m.1kkk.com##div#index-bottom-ad
+@@||css122us.cdnmanhua.net^$third-party
+@@||ajax.cloudflare.com^$third-party
+||j.dakang-energy.com/w/*$script,domain=1kkk.com
+1kkk.com###mb-cc5
+59.110.222.215:32100$network,app=com.hichip.campro
+124.202.138.31:19000$network,app=com.hichip.campro
+||43.247.88.96:7002^$app=com.hichip.campro
+||43.247.88.80:7001^$app=com.hichip.campro
+||43.247.88.83:7005^$app=com.hichip.campro
+58.96.170.32$network,app=com.hichip.campro
+52.221.17.159$network,app=com.hichip.campro
+||183.232.25.151:443^$app=com.hichip.campro
+tieba.baidu.com##.app_download_box.region_bright
+||mh1234.com/g_js
+||hm.baidu.com/hm.js?
+||mh1234.com/gd
+m.mh1234.com##dd.MTAwNA
+||m.bnmanhua.com/static/manhua/bd/xinw.js$script,domain=m.mhqj.com
+m.mhqj.com##div.addg
+m.mhqj.com##body > [href="https://www.down19.com/app/1296.html"]
+m.mhqj.com##.xf-right
+m.mhqj.com##[src^="data:image/png;base64,"]
+m.1kkk.com##DIV.ad-top-info
+www.pixiv.net##A.premium-link
+www.pixiv.net##DIV.premium-lead-new-t-info-home-top
+www.pixiv.net##DIV.premium-lead-t-footer
+www.pixiv.net##DIV.banner-ad-footer-scale
+||note.youdao.com^$app=com.mylrc.mymusic
+||update.wgcsp.top:88^$app=com.mylrc.mymusic
+||113.96.208.63:8080^$app=com.mylrc.mymusic
+m.gamer.com.tw##.download-app_box01
+m.silisili.in##div:nth-of-type(4)
+m.silisili.in##[href^="https://www.visvn.cn/c.php"]
+m.silisili.in##marquee
+m.silisili.in##div.section:nth-child(3) > div:nth-child(2)
+tieba.baidu.com##.fengchao-wrap-feed
+tieba.baidu.com##.app_download_box.region_bright
+tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
+tieba.baidu.com##.img-open-app
+||login.m.taobao.com/favicon.ico$domain=login.m.taobao.com,app=mark.via
+||www.baidu.com/baidu.php?url=*&shh=tieba.baidu.com$important
+||hankook.tmall.com^$domain=baidu.com,important
+||ns-strategy.cdn.bcebos.com
+||api.pinduoduo.com/api/cappuccino^$app=com.xunmeng.pinduoduo
+||page.amap.com^$app=com.autonavi.minimap
+||203.119.206.224/amdc^$app=com.autonavi.minimap
+||203.119.211.219/amdc^$app=com.autonavi.minimap
+||s.pc.qq.com^$domain=m.pianku.li
+tieba.baidu.com##.open-app
+tieba.baidu.com##.two-img-open-app.img-open-app
+y.music.163.com##DIV.m-link.m-music-street,DIV.content,DIV.m-song-clickarea
+m.qiman6.com##DIV.guide-download,DIV.jiejian_box,DIV#adhtml
+m.kisssub.org##div.down:nth-of-type(5)
+haokan.baidu.com##DIV.open-app-top-banner,DIV.navigation-download,DIV.open-app-button
+||music.163.com/eapi/msg/private/users$app=com.netease.cloudmusic
+www.bilibili.com##.clearfix.h5-download-bar.d-f-s
+www.bilibili.com##.read-act-ctnr
+||59.82.34.255/amdc/mobileDispatch?appkey=
+wiki.biligame.com##.btn-open-app
+wiki.biligame.com##.app-download-bar
+||120.92.137.86:6537^$app=tv.danmaku.bili
+||image.coolapk.com/image^$app=com.coolapk.market,important
+||image.coolapk.com/apk_cover/$important
+||wx4.sinaimg.cn^
+||image.coolapk.com/apk_logo/*.gif
+||dianjiqi.com^$app=com.dianjiqi
+||tmfmazu4http-wangka.m.qq.com^$app=com.tencent.xriver
+||api.btstu.cn^$app=com.yiciyuan.app
+||tva3.sinaimg.cn^$app=com.yiciyuan.app
+||yiciyuan.coding.net^
+||media.9game.cn^$app=com.coolapk.market
+tieba.baidu.com##div.tb-threadlist__item:nth-of-type(1) > .tb-panel
+hanime1.me###more-related-ad
+hanime1.me###mobile-ad
+@@||media.r18.com/track/
+tieba.baidu.com##div.nav-bar-wrapper:nth-of-type(1) > .nav-bar.w-row-justify-between.w-row-align-center.w-row
+tieba.baidu.com##.nav-bar-wrapper.fixed-nav-bar > .nav-bar.w-row-justify-between.w-row-align-center.w-row
+tieba.baidu.com##div.tb-threadlist__item.tb-banner.tb-banner-wrapper
+tieba.baidu.com##.fengchao-banner
+tieba.baidu.com##.list-content
+tieba.baidu.com##.ertiao-wrap
+tieba.baidu.com##.feed-warp > div
+tieba.baidu.com##.post-cut-guide
+tieba.baidu.com##.img-open-app
+tieba.baidu.com##DIV.fengchao-banner
+tieba.baidu.com##DIV.post-cut-guide,DIV.ertiao-wrap,DIV.feed-warp
+||m1.ad.10010.com^$domain=m1.ad.10010.com
+||gw.alipayobjects.com^$app=com.eg.android.AlipayGphone
+||amdc.alipay.com/squery$app=com.eg.android.AlipayGphone
+||198.11.189.91:443^$app=com.eg.android.AlipayGphone
+||198.11.188.24^$app=com.eg.android.AlipayGphone
+||mygw.alipay.com^$app=com.eg.android.AlipayGphone
+||www.taobao.com^$app=com.eg.android.AlipayGphone
+@@||weibo.com/tv/show/1034:4640002924281875?from=old_pc_videoshow$domain=m.weibo.cn
+||yun-hl.3g.qq.com^
+||14.22.9.191:33445^
+||i0.hdslb.com/bfs/fawkes^
+||passport.bigfunapp.cn^
+||120.92.139.58
+||up-hl.3g.qq.com^
+||120.92.139.58
+||120.92.137.86
+||www.mangabz.com/useractivity.ashx$domain=mangabz.com
+||www.mangabz.com/*/useractivity.ashx?d=$domain=mangabz.com
+||ts.amap.com^
+||collapsar.amap.com^
+||passport.amap.com^
+||page.amap.com^
+||aos-cdn-image.amap.com/pp/avatar^
+||gw.alicdn.com^
+||cache.amap.com^
+||ts.amap.com^
+||sns.amap.com^
+||acs.m.taobao.com/gw/mtop.common.getTimestamp/*
+||awaken.amap.com^
+||mapdownload.autonavi.com/apps/apps^$app=com.autonavi.minimap
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.main-thread-content-margin.main-thread-content:nth-child(3) > div.media-content.media-content-margin
+mobile.twitter.com###layers
+mobile.twitter.com###react-root > div.css-1dbjc4n.r-13awgt0.r-12vffkv > div.css-1dbjc4n.r-13awgt0.r-12vffkv > div.css-1dbjc4n.r-13qz1uu.r-417010:last-child > header.css-1dbjc4n.r-lrvibr.r-1g40b8q:nth-child(3) > div.css-1dbjc4n.r-14lw9ot.r-aygnpl.r-rull8r.r-qklmqi.r-1d2f490.r-1xcajam.r-zchlnj.r-1gn8etr.r-1siec45.r-o7ynqc.r-axxi2z.r-136ojw6:last-child > div.css-1dbjc4n.r-1jgb5lz.r-13qz1uu:first-child > div.css-1dbjc4n.r-14lw9ot.r-1w6e6rj.r-r4r418.r-1wtj0ep.r-1qfz7tf.r-rjfia.r-136ojw6 > div.css-1dbjc4n.r-18u37iz.r-16y2uox.r-1iud8zs:last-child
+mangabz.com###frame_4697
+mangabz.com###mb-bb1
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.post-cut-guide
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.ertiao-wrap:
+!↓贴吧热榜↓
+tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-threadlist__item.tb-hotthread-wrapper
+!↑贴吧热榜↑
+!广告
+tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-banner-wrapper.tb-banner.tb-threadlist__item
+!广告
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.ertiao-wrap:nth-child(10)
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.recommend-list:nth-child(11)
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.ertiao-wrap:nth-child(11) > div.ertiao-warp:nth-child(2)
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div:nth-child(5) > div.fengchao-banner:first-child > div > div._73gawc6
+m.bilibili.com###app > div.video > div.m-video-new > div.m-navbar:first-child > div.right:last-child > div.open-app-btn.m-nav-openapp:last-child > img.nav-open-app-img
+m.bilibili.com###app > div.video > div.m-video-new > div.open-app-btn.m-float-openapp:nth-child(8) > div.m-video2-float-openapp
+m.bilibili.com###commentMore > div.open-app-btn.m-comment-openapp > button
+bimibimi.cc##div.leo-container:nth-child(4) > div.main:nth-child(6) > marquee
+@@||m.agefans.org/static/ck^$domain=m.agefans.org
+agefans.net##button#btncomment
+agefans.net##DIV.loginout
+agefans.net##DIV#new_tip1
+agefans.net##DIV.app-dl-m
+@@||members.hanime.tv^
+||dnet.mb.qq.com^$app=com.tencent.xriver
+||159.75.195.115:1883^$app=com.tencent.xriver
+||data.bilibili.com^$app=tv.danmaku.bili
+||dataflow.biliapi.com^$app=tv.danmaku.bili
+||data.bilibili.com^$app=tv.danmaku.bili
+! edddh.net##DIV.
+||m.weibo.cn/status/baiduad$domain=m.weibo.cn
+m.weibo.cn##DIV.wrap
+18comic.org###wrapper > div.ph-bottom.switch-group.visible-xs.visible-sm:first-child > ul > li.ph-active:nth-child(4)
+18comic.org###wrapper > div.ph-bottom.switch-group.visible-xs.visible-sm:first-child > ul > li.ph-active:nth-child(3)
+18comic.org###sns
+18comic.org##DIV.bot-per-back
+18comic.org##DIV.bot-per-times
+@@xmfans.me
+m.milimili.tv##.leo-mod leo-left leo-col-12
+||dldir1.qq.com/weixin/checkresupdate^$app=com.tencent.mm,important
+||mmbiz.qpic.cn/mmbiz_jpg^$app=com.tencent.mm
+baike.baidu.com##DIV#AdAhuBe3
+bimibimi.cc##div.leo-container:nth-child(4) > nav.leo-foot-wrap.leo-bg-a.leo-po-fi:last-child > a.leo-foot-a.leo-txt-c.leo-pt-10:nth-child(2)
+bimibimi.cc##div.leo-container:nth-child(4) > div.leo-go-top.leo-txt-c.leo-lh-m.leo-po-fi.leo-radius-m.leo-bg-b.leo-show:nth-child(26) > span.iconfont.icon-more.leo-fs-icon-s.leo-color-a
+bimibimi.cc##div.leo-container:nth-child(4) > div.leo-gonggao-body.leo-bg-a:nth-child(7)
+bimibimi.cc##div.leo-container:nth-child(4) > div:nth-child(4)
+bimibimi.cc##div.leo-container:nth-child(4) > section:nth-child(6)
+tieba.baidu.com##DIV.tb-mt--12.tb-line-button
+https://downapp.baidu.com/baidutieba/AndroidPhone
+||wx3.sinaimg.cn^$app=com.coolapk.market
+||wx3.sinaimg.cn^$app=com.coolapk.market
+||static.coolapk.com^$app=com.coolapk.market
+||wx1.sinaimg.cn^$app=com.coolapk.market
+||passport.bigfun.cn^$app=tv.danmaku.bili
+||passport.biligame.com^$app=tv.danmaku.bili
+||dnet.mb.qq.com^$app=tv.danmaku.bili
+||lbs.map.qq.com^$app=tv.danmaku.bili
+!爱弹幕
+idanmu.im##DIV.entry-share
+idanmu.im##.¨¶icÕ
+idanmu.im##.÷t0Ør
+idanmu.im##.þÇàÕË
+idanmu.im##.ú®¯jé
+idanmu.im##DIV.fake-respond,DIV.widget-medal-container
+!5dmtv
+||5dm.app###video-toolbar > div.container > div.video-toolbar-inner:first-child > div.video-toolbar-item.like-dislike.pull-right:first-child
+||5dm.app###comments
+||5dm.app###animate
+||5dm.app###helloddd
+!爱恋动漫bt
+||kisssub.org##DIV.announcement
+!假琉璃
+!风车动漫
+!  ID 类 域名+##div#***
+!  class类 域名+##div.***
