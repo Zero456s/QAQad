@@ -1,5 +1,5 @@
 ! Title: Ad-X-block
-! Homepage: none
+! Homepage: 谢你麻痹
 ! by zero
 ! Expires: 1 days
 ! Version: 2021/10/09 18:49
@@ -85,9 +85,13 @@ edddh.cc##div.container:nth-child(2) > div.row:first-child > div.bshare-custom:n
 !mangabz漫画
 ||www.mangabz.com/wxh_asy.js?cid=$domain=mangabz.com
 edddh.cc##DIV.innerdiv
+
+!bukaivip影视
 bukaivip.com##div.container:nth-child(3) > div.row > div.stui-pannel.stui-pannel-bg.clearfix > div.stui-pannel-box.clearfix > div.stui-pannel_bd
 @@||[2403:71c0:8000:5ba7:5320:655f:59e8:91cc]:443^$app=com.huanchengfly.tieba.post
 124.202.138.29$network
+
+
 @@||www.dmd55.com/dmd8dz/?url=https://sf1-ttcdn-tos.pstatp.com/*?partNumber
 @@||sf3-ttcdn-tos.pstatp.com^
 ||www.cocomanhua.com/js/ad_/$image
