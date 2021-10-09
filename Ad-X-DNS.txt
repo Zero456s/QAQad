@@ -1,7 +1,7 @@
 ! Homepage:
 ! Title: Ad-X-DNS
-! Expires: 
-
+! Expires: 1 days
+! Version:
 
 
 127.0.0.1 ||*.jpush.cn
