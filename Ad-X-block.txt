@@ -10,12 +10,12 @@ m.gamer.com.tw##div.wrapper:nth-of-type(7)
 ! 百度贴吧
 tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > nav:first-child
 ||tieba.baidu.com##.fixed-nav-bar-defensive > .nav-bar.w-row-justify-between.w-row-align-center.w-row
-
 tieba.baidu.com##nav.nav-bar-wrapper
 tieba.baidu.com##.ertiao-wrap
 imgsrc.baidu.com^$domain=tieba.baidu.com
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.fengchao-banner
+!
 #%#document.execCommand = {}
 #%#navigator.clipboard.writeText = {}
 #%#navigator.clipboard.write = {}
