@@ -1,7 +1,8 @@
-! Homepage:自用和辅助不足之处
 ! Title: Ad-X-DNS
+! Homepage:自用和辅助不足之处
+! by zero自用版
 ! Expires: 1 days
-! Version:
+! Version: 2021/10/09 20:17
 
 
 127.0.0.1 ||*.jpush.cn
