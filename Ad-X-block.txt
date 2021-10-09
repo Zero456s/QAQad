@@ -1,6 +1,6 @@
 ! Title: Ad-X-block
 ! Homepage: https://github.com/Zero456s/QAQad/blob/main/Ad-X-block.txt
-! Description:
+! Description: 这是个测试
 ! by zero
 ! Version: 自用版
 ! Expires: 1 s
