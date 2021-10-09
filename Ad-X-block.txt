@@ -5,6 +5,11 @@
 ! Version: 2021/10/09 18:49
 
 ! 手机应用专区
+||update.fooview.com$app=com.fooview.android.fooview
+||172.217.160.68^$app=com.fooview.android.fooview
+||pp.myapp.com/ma_icon$app=com.coolapk.market
+||203.107.1.65^$app=com.coolapk.market,important
+||image.coolapk.com/image/*-uid-*@*.gif$app=com.coolapk.market,important
 
 ! 巴哈姆特论坛
 m.gamer.com.tw##div.wrapper:nth-of-type(7)
@@ -23,11 +28,7 @@ tieba.baidu.com##.fengchao-banner
 #%#navigator.clipboard.writeText = {}
 #%#navigator.clipboard.write = {}
 
-||update.fooview.com$app=com.fooview.android.fooview
-||172.217.160.68^$app=com.fooview.android.fooview
-||pp.myapp.com/ma_icon$app=com.coolapk.market
-||203.107.1.65^$app=com.coolapk.market,important
-||image.coolapk.com/image/*-uid-*@*.gif$app=com.coolapk.market,important
+
 ||bj.bcebos.com^
 ||short.weixin.qq.com/mmnetcheck$app=com.tencent.mm,important
 ||www.cocomanga.com/counting$domain=cocomanga.com,important
