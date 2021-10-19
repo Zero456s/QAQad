@@ -401,7 +401,7 @@ llss.*##ASIDE#metaslider_widget-8,ASIDE#metaslider_widget-7,ASIDE#metaslider_wid
 llss.*##ARTICLE#post-2958
 
 !风车动漫
-dm530p.*###slider,div [class="logo fl"]
+dm530p.*###slider
 
 !  ID 类 域名+##div#***
 !  class类 域名+##div.***
