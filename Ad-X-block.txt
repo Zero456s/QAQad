@@ -4,6 +4,8 @@
 ! Expires: 7 days
 ! Version: 2021/10/09 20:15
 
+!adguard隐身模式白名单
+@@||dav.jianguoyun.com^$stealth
 
 
 ! 手机应用专区
