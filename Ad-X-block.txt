@@ -130,6 +130,9 @@ tieba.baidu.com##.gray-background.feed-warp
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.banner-wrapper-defensive
 tieba.baidu.com##.fengchao-banner-defensive
+
+! PC版面
+tieba.baidu.com##.bus-top-activity-wrap
 !百度贴吧净化
 
 
