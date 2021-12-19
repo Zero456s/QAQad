@@ -108,7 +108,27 @@ $removeparam=utm_source
 m.gamer.com.tw##div.wrapper:nth-of-type(7)
 ##.announcement
 
-! 百度贴吧
+!百度贴吧净化
+||tb3.bdstatic.com/radar-sdk/
+||hm.baidu.com/hm.js
+||dlswbr.baidu.com^
+||als.baidu.com/clog/
+||tb3.bdstatic.com/tb/wise/wise-main-common/static/img/logo_tieba.*.png$domain=tieba.baidu.com
+tieba.baidu.com##div.banner:nth-of-type(1)
+tieba.baidu.com##.buoy
+tieba.baidu.com##.fixed-nav-bar-defensive.banner
+tieba.baidu.com##DIV.tb-threadlist__item.tb-hotthread-wrapper
+tieba.baidu.com##div.tb-hotthread-wrapper.tb-threadlist__item > .tb-panel > .tb-panel__body
+tieba.baidu.com##.tb-mt--8 > .tb-panel > .tb-panel__body
+||imgsrc.baidu.com/forum/pic/item/*.jpg$image
+tieba.baidu.com##li.tb-share__item:nth-of-type(1)
+tieba.baidu.com##.img-open-app
+tieba.baidu.com##.ertiao-wrap-defensive
+tieba.baidu.com##.gray-background.feed-warp
+tieba.baidu.com##.post-cut-guide
+tieba.baidu.com##.banner-wrapper-defensive
+tieba.baidu.com##.fengchao-banner-defensive
+!百度贴吧净化
 
 
 !禁止网页写入剪切板
