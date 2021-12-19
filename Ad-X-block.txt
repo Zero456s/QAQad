@@ -109,26 +109,7 @@ m.gamer.com.tw##div.wrapper:nth-of-type(7)
 ##.announcement
 
 ! 百度贴吧
-tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > nav:first-child
-||tieba.baidu.com##.fixed-nav-bar-defensive > .nav-bar.w-row-justify-between.w-row-align-center.w-row
-tieba.baidu.com##nav.nav-bar-wrapper
-tieba.baidu.com##.ertiao-wrap
-imgsrc.baidu.com^$domain=tieba.baidu.com
-tieba.baidu.com##.post-cut-guide
-tieba.baidu.com##.fengchao-banner
-tieba.baidu.com##div.tb-threadlist__item.tb-banner.tb-banner-wrapper > .tb-mt--8
-||m.baidu.com/baidu.php?ur=*$domain=m.baidu.com,important
-byokpg.smartapps.cn##.ad-expose
-byokpg.smartapps.cn##.sw-21__bdad-wrap
-byokpg.smartapps.cn##.sw-21__ad-expose
-tieba.baidu.com##nav.nav-bar-wrapper
-baidu.com##.listbox
-baidu.com##div.lg-inner > .lg-wrapper > .lg-inner > .c-img-rect._3HW7Y
-||tb3.bdstatic.com/radar-sdk/prod/js/1.0.0/es5/radar.min.js?t=*$domain=tieba.baidu.com
-||tieba.baidu.com/mo/q/recommendpb/recomSiteTids?thread_id=*&fr=wise$domain=tieba.baidu.com
-tb3.bdstatic.com/radar-sdk/prod/js/1.0.0/es5/radar.min.js?t=*$domain=tieba.baidu.com
-tieba.baidu.com/mo/q/recommendpb/recomSiteTids?thread_id=*&fr=wise$domain=tieba.baidu.com
-||tb2.bdstatic.com/tb/static-pb/widget/app_download/$domain=tb1.bdstatic.com
+
 
 !禁止网页写入剪切板
 #%#document.execCommand = {}
