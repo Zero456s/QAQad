@@ -2,7 +2,7 @@
 ! Homepage: Adguard.com
 ! by zero自用版
 ! Expires: 7 days
-! Version: 2021/12/22 08:47
+! Version: 2021/12/22 17:25
 
 !adguard隐身模式白名单
 @@||dav.jianguoyun.com^$stealth
@@ -130,6 +130,8 @@ tieba.baidu.com##.gray-background.feed-warp
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.banner-wrapper-defensive
 tieba.baidu.com##.fengchao-banner-defensive
+tieba.baidu.com##.nav-bar.w-row-justify-between.w-row-align-center.w-row
+
 
 ! PC版面
 tieba.baidu.com##.bus-top-activity-wrap
