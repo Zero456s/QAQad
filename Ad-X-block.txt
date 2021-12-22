@@ -145,6 +145,9 @@ tieba.baidu.com##.bus-top-activity-wrap
 
 !cocomanga漫画
 ||www.cocomanga.com/counting$domain=cocomanga.com,important
+/js/ad_/$domain=cocomanga.com
+!||xg.kxapctq.cn^$domain=cocomanga.com
+||ja.daimude.com^$domain=cocomanga.
 
 
 ||lh.lctcw.top^
