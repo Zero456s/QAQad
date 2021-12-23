@@ -2,7 +2,7 @@
 ! Homepage: 没有主页
 ! by zero自用版
 ! Expires: 7 days
-! Version: 2021/12/22 17:25
+! Version: 2021/12/23 09:42
 
 !adguard隐身模式白名单
 @@||dav.jianguoyun.com^$stealth
