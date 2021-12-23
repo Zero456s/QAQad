@@ -5,6 +5,12 @@
 ! Version: 2021/10/09 20:17
 
 
+||z3.ax1x.com^
+||s6.jpg.cm^
+||ajax.cloudflare.com^
+
+||iv6.gtimg.cn^
+||mss0.bdstatic.com^
 127.0.0.1 ||*.jpush.cn
 127.0.0.1 media.9game.cn
 127.0.0.1 api.maque.site
@@ -15,7 +21,7 @@
 ||jk.hezhib.top^
 127.0.0.1 api.vc.bilibili.com
 127.0.0.1 club.bilibili.com
-downpack.baidu.com
+downpack.baidu.com^
 @@||m.to8to.com^
 @@||sf1-ttcdn-tos.pstatp.com^
 
