@@ -4,6 +4,9 @@
 ! Expires: 7 days
 ! Version: 2021/12/24 08:38
 
+! Adguard_ad
+adguard-dns.com##.flash-wrapper--zh_cn.flash-wrapper
+
 !adguard隐身模式白名单
 @@||dav.jianguoyun.com^$stealth
 
