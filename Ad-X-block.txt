@@ -2,7 +2,7 @@
 ! Homepage: 没有主页
 ! by zero自用版
 ! Expires: 7 days
-! Version: 2021/12/23 09:42
+! Version: 2021/12/24 08:38
 
 !adguard隐身模式白名单
 @@||dav.jianguoyun.com^$stealth
@@ -148,8 +148,7 @@ tieba.baidu.com##.bus-top-activity-wrap
 !cocomanga漫画
 ||www.cocomanga.com/counting$domain=cocomanga.com,important
 /js/ad_/$domain=cocomanga.com
-!||xg.kxapctq.cn^$domain=cocomanga.com
-||ja.daimude.com^$domain=cocomanga.
+cocomanga.com##DIV[align="center"],div.fed-back-whits.fed-part-layout:nth-of-type(14)
 
 
 ||lh.lctcw.top^
