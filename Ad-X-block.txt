@@ -152,7 +152,7 @@ tieba.baidu.com##.bus-top-activity-wrap
 !cocomanga漫画
 ||www.cocomanga.com/counting$domain=cocomanga.com,important
 /js/ad_/$domain=cocomanga.com
-cocomanga.com##DIV[align="center"],div.fed-back-whits.fed-part-layout:nth-of-type(14)
+cocomanga.com##DIV[align="center"],div.fed-back-whits.fed-part-layout:nth-of-type(14),.fed-goto-info
 
 
 ||lh.lctcw.top^
