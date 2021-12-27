@@ -150,8 +150,6 @@ tieba.baidu.com##.bus-top-activity-wrap
 
 
 !cocomanga漫画
-
-/js/ad_/$domain=cocomanga.com
 cocomanga.com##a[href^="http://91mh.co/#/"],div.fed-back-whits.fed-part-layout:nth-of-type(14),.fed-goto-info
 
 
