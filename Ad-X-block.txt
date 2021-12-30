@@ -395,6 +395,9 @@ idanmu.im##.÷t0Ør
 idanmu.im##.þÇàÕË
 idanmu.im##.ú®¯jé
 idanmu.im##DIV.fake-respond,DIV.widget-medal-container
+idanmu.*##div.þÇàÕË.g > [href]
+||idanmu.net/202*/*.jpg$image
+
 
 !5dmtv
 ||5dm.app###video-toolbar > div.container > div.video-toolbar-inner:first-child > div.video-toolbar-item.like-dislike.pull-right:first-child
