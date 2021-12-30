@@ -406,6 +406,7 @@ idanmu.im##DIV.fake-respond,DIV.widget-medal-container
 ||kisssub.org##DIV.announcement
 
 !假琉璃
+llss.*###post-2958
 llss.*##[href^="https://item.taobao.com/item.htm"]
 
 
