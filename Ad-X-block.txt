@@ -143,9 +143,9 @@ tieba.baidu.com##.bus-top-activity-wrap
 
 
 !禁止网页写入剪切板
-#%#document.execCommand = {}^$domain=baidu.com|bilibili.com
-#%#navigator.clipboard.writeText = {}^$domain=baidu.com|bilibili.com
-#%#navigator.clipboard.write = {}^$domain=baidu.com|bilibili.com
+#%#document.execCommand = {}
+#%#navigator.clipboard.writeText = {}
+#%#navigator.clipboard.write = {}
 
 
 
