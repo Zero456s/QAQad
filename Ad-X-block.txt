@@ -283,8 +283,7 @@ wiki.biligame.com##.app-download-bar
 ||yiciyuan.coding.net^
 ||media.9game.cn^$app=com.coolapk.market
 tieba.baidu.com##div.tb-threadlist__item:nth-of-type(1) > .tb-panel
-hanime1.me###more-related-ad
-hanime1.me###mobile-ad
+
 @@||media.r18.com/track/
 tieba.baidu.com##div.nav-bar-wrapper:nth-of-type(1) > .nav-bar.w-row-justify-between.w-row-align-center.w-row
 tieba.baidu.com##.nav-bar-wrapper.fixed-nav-bar > .nav-bar.w-row-justify-between.w-row-align-center.w-row
@@ -387,6 +386,7 @@ https://downapp.baidu.com/baidutieba/AndroidPhone
 ||passport.biligame.com^$app=tv.danmaku.bili
 ||dnet.mb.qq.com^$app=tv.danmaku.bili
 ||lbs.map.qq.com^$app=tv.danmaku.bili
+!hanime1
 
 !爱弹幕
 idanmu.im##DIV.entry-share
