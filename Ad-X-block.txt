@@ -387,6 +387,11 @@ https://downapp.baidu.com/baidutieba/AndroidPhone
 ||dnet.mb.qq.com^$app=tv.danmaku.bili
 ||lbs.map.qq.com^$app=tv.danmaku.bili
 !hanime1
+hanime1.me##.hentai-footer
+hanime1.me###home-rows-wrapper > div > .hidden-lg.hidden-md.hidden-sm
+hanime1.me##.nav-bottom-padding > div > .hidden-lg.hidden-md.hidden-sm
+hanime1.me###watch-footer
+hanime1.me###mobile-ad
 
 !爱弹幕
 idanmu.im##DIV.entry-share
