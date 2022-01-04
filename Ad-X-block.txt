@@ -151,10 +151,12 @@ tieba.baidu.com##.bus-top-activity-wrap
 
 !cocomanga漫画
 cocomanga.com##a[href^="http://91mh.co/#/"],div.fed-back-whits.fed-part-layout:nth-of-type(14),.fed-goto-info
+cocomanga.com##.a7066
+
+!bangumi
+bangumi.moe#@#.fa-rss
 
 
-||lh.lctcw.top^
-||jk.lipeijun.top^
 
 !edddh动漫
 @@||m3u8.yyd.me^$domain=edddh.cc
