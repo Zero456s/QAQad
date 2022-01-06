@@ -2,11 +2,12 @@
 ! Homepage: 没有主页
 ! by zero自用版
 ! Expires: 7 days
-! Version: 2022/01/06 23:48
+! Version: 2022/01/06 23:50
 
 ! Adguard_ad
 adguard.com##.flash
 adguard-dns.com##.flash-wrapper--zh_cn.flash-wrapper
+!这是一个测试
 
 !adguard隐身模式白名单
 @@||dav.jianguoyun.com^$stealth
