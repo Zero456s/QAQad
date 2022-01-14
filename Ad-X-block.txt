@@ -136,6 +136,7 @@ tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.banner-wrapper-defensive
 tieba.baidu.com##.fengchao-banner-defensive
 tieba.baidu.com##.nav-bar.w-row-justify-between.w-row-align-center.w-row
+tieba.baidu.com##.topic-wrap-defensive
 
 
 ! PC版面
