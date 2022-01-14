@@ -2,7 +2,7 @@
 ! Homepage: 没有主页
 ! by zero自用版
 ! Expires: 7 days
-! Version: 2022/01/06 23:50
+! Version: 2022/01/14 19:19
 
 ! Adguard_ad
 adguard.com##.flash
