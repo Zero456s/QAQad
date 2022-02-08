@@ -418,8 +418,8 @@ idanmu.*##div.þÇàÕË.g > [href]
 ||kisssub.org##DIV.announcement
 
 !假琉璃
-llss.*###post-2958
-llss.*##[href^="https://item.taobao.com/item.htm"]
+liuli.*###post-2958
+liuli.*##[href^="https://item.taobao.com/item.htm"]
 
 
 !风车动漫
